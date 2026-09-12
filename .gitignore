@@ -1,1 +1,6 @@
 ICV_A2_2023315657.zip
+
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
